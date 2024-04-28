@@ -1,12 +1,12 @@
-commit QmbaVixuvJiJ7dx72VgR9pXTteXTfYnX329Foaaxu1MgjN
+commit QmNMTiJyE63GG8yVaYxT3tHwTaMy9z8pzJiEHQSbhquDgz
 Branch: main
 Signed-off by: danimesq.eth (0xDDfC2e10702d8A781727A34D83B3bb3CA94a3E91)
-Signature: 74f2421226aff6f71c727e4c624d5588a50faa0b42c088526508658560a2653f1fd7978b472cb712f3a4c8a41a91c35f78809f686e236b6f7dcea33b72ace51b01
+Signature: 69391988347b88d7de12f17de9ec527e3c2859b1f6b8693cecea1e4036bf730b57206d1e82793ebe27c91bf1548174c55d35623f469a62878085983a1f75d45400
 
 ------------------------------
 
-Commit CID if including git's SHA1: QmVvVkJ4NWGy4CKdQHfUM1NZbJ1tfH2GvnqPp2wRbb2bBy
-Commit CID if containing only file hashes: QmSBFagztdQMp9VSxqyL3GgKwAmv2hdKDRuvh5UtbahP5j
+Commit CID if including git's SHA1: QmcLkJyf2hxf7ReqCz8XrWZxxNBN24Er7AqTo7Xvd3h3oQ
+Commit CID if containing only file hashes: QmYaSz5iMkgqaS3W7FPuMWMKX8TLSf5VV6VkzGoaRRmQju
 
 ------------------------------
 
@@ -17,7 +17,7 @@ Remote URL: https://gitlab.com/PartidoVelho/partidovelho.gitlab.io.git
 
 ------------------------------
 
-chown -h 1000:1000 'Tasks.txt'
-chmod 0664 'Tasks.txt'
-/usr/bin/touch -hcmd "2024-04-28 00:22:41.4991041000 -0300" 'Tasks.txt'
-/usr/bin/touch -hcad "2024-04-28 00:23:21.5507691000 -0300" 'Tasks.txt'
+chown -h 1000:1000 'index.html'
+chmod 0755 'index.html'
+/usr/bin/touch -hcmd "2024-04-28 00:28:32.6053899000 -0300" 'index.html'
+/usr/bin/touch -hcad "2024-04-28 00:29:05.6643314000 -0300" 'index.html'
