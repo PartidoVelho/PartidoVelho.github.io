@@ -1,12 +1,12 @@
-commit QmeNv3DAVXnoQ3JTMNpTMmi926bqNiD2x82DaCa54SUE83
+commit QmXUrtVdFpCf4jqLNr3fr44dL4SGgetmw7TfWjkwEnoHZa
 Branch: main
 Signed-off by: danimesq.eth (0xDDfC2e10702d8A781727A34D83B3bb3CA94a3E91)
-Signature: 32e2b3d3fcfa37cd41fb17a256da1aacef411c8e5784747a1ee6d2443a19155944295c948cccbd5cbedc0d1a8fb3e96d280b246f663f1e167e6297d24ee536a400
+Signature: 5a19362d373bf1b44065dca9334894ab671a5d611e72b46b0393d0febd7c71772215a747476a10ebbe5954d45541842a7099b6a72d0591ef7f093d1fec3b8f6501
 
 ------------------------------
 
-Commit CID if including git's SHA1: QmbwrgJjqxTGQusmAzjECzNxA94HTHkNw9Gedrb3D4KVNU
-Commit CID if containing only file hashes: QmTzMxjCXv2YvBx7byq94KKF5VBsDNpoj9c5SwHR46fFMn
+Commit CID if including git's SHA1: QmNxTLFcBNTKLmWMKtyjak1hJ8bNPt2V4zPiHHcm82Kpqj
+Commit CID if containing only file hashes: QmVF6qTyo3ZYmodp9nAud8MjWY9DjLbne25krDWPXJnkHH
 
 ------------------------------
 
@@ -19,5 +19,5 @@ Remote URL: https://gitlab.com/PartidoVelho/partidovelho.gitlab.io.git
 
 chown -h 1000:1000 'index.html'
 chmod 0755 'index.html'
-/usr/bin/touch -hcmd "2024-05-01 15:42:23.1093347000 -0300" 'index.html'
-/usr/bin/touch -hcad "2024-05-01 15:47:32.2635658000 -0300" 'index.html'
+/usr/bin/touch -hcmd "2024-05-01 16:42:47.9116752000 -0300" 'index.html'
+/usr/bin/touch -hcad "2024-05-01 16:42:58.6666627000 -0300" 'index.html'
