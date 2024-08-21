@@ -1,12 +1,12 @@
-commit QmXUrtVdFpCf4jqLNr3fr44dL4SGgetmw7TfWjkwEnoHZa
+commit QmVPdV6wQo5zEgFe2fMg1HDFTsJhVsQ1ezg9KYCmVJKfMN
 Branch: main
 Signed-off by: danimesq.eth (0xDDfC2e10702d8A781727A34D83B3bb3CA94a3E91)
-Signature: 5a19362d373bf1b44065dca9334894ab671a5d611e72b46b0393d0febd7c71772215a747476a10ebbe5954d45541842a7099b6a72d0591ef7f093d1fec3b8f6501
+Signature: 4deabfe92181593e5e9ec6c5261a3df26744281a4803f61e343c1286ffc23f65518c790a769cd6ca945aee1ab23357125449ccd0883c2002bc72535bd6ddb72a01
 
 ------------------------------
 
-Commit CID if including git's SHA1: QmNxTLFcBNTKLmWMKtyjak1hJ8bNPt2V4zPiHHcm82Kpqj
-Commit CID if containing only file hashes: QmVF6qTyo3ZYmodp9nAud8MjWY9DjLbne25krDWPXJnkHH
+Commit CID if including git's SHA1: Qmads7tdrU971qkHsVHPfaE4FJ6K9vdSKM2hWjcNT56wr9
+Commit CID if containing only file hashes: QmbGJWc9MLJbPiMQaE7R4UjD5SyPG6fnDou6nLFXfNq6q9
 
 ------------------------------
 
@@ -19,5 +19,37 @@ Remote URL: https://gitlab.com/PartidoVelho/partidovelho.gitlab.io.git
 
 chown -h 1000:1000 'index.html'
 chmod 0755 'index.html'
-/usr/bin/touch -hcmd "2024-05-01 16:42:47.9116752000 -0300" 'index.html'
-/usr/bin/touch -hcad "2024-05-01 16:42:58.6666627000 -0300" 'index.html'
+/usr/bin/touch -hcmd "2024-08-21 01:07:22.4617589000 -0300" 'index.html'
+/usr/bin/touch -hcad "2024-08-21 01:12:57.2305195000 -0300" 'index.html'
+chown -h 1000:1000 'logotype.png'
+chmod 0755 'logotype.png'
+/usr/bin/touch -hcmd "2024-08-14 16:46:47.5036451000 -0300" 'logotype.png'
+/usr/bin/touch -hcad "2024-08-21 01:09:36.1481747000 -0300" 'logotype.png'
+chown -h 1000:1000 'logotype.svg'
+chmod 0755 'logotype.svg'
+/usr/bin/touch -hcmd "2024-08-14 16:46:58.1312412000 -0300" 'logotype.svg'
+/usr/bin/touch -hcad "2024-08-21 01:09:38.0842084000 -0300" 'logotype.svg'
+chown -h 1000:1000 'press/press-kit/img/.folderstamp1'
+chmod 0664 'press/press-kit/img/.folderstamp1'
+/usr/bin/touch -hcmd "2024-08-21 01:03:36.1981657000 -0300" 'press/press-kit/img/.folderstamp1'
+/usr/bin/touch -hcad "2024-08-21 01:14:32.2180085000 -0300" 'press/press-kit/img/.folderstamp1'
+chown -h 1000:1000 'press/press-kit/img/logotype-plain_black_full.png'
+chmod 0755 'press/press-kit/img/logotype-plain_black_full.png'
+/usr/bin/touch -hcmd "2024-08-14 16:47:10.8409189000 -0300" 'press/press-kit/img/logotype-plain_black_full.png'
+/usr/bin/touch -hcad "2024-08-21 01:10:09.3627485000 -0300" 'press/press-kit/img/logotype-plain_black_full.png'
+chown -h 1000:1000 'press/press-kit/img/logotype-plain_black_full.svg'
+chmod 0755 'press/press-kit/img/logotype-plain_black_full.svg'
+/usr/bin/touch -hcmd "2024-08-14 16:47:20.1521909000 -0300" 'press/press-kit/img/logotype-plain_black_full.svg'
+/usr/bin/touch -hcad "2024-08-21 01:10:11.1947799000 -0300" 'press/press-kit/img/logotype-plain_black_full.svg'
+chown -h 1000:1000 'press/press-kit/img/logotype-plain_white_full.png'
+chmod 0755 'press/press-kit/img/logotype-plain_white_full.png'
+/usr/bin/touch -hcmd "2024-08-14 16:47:29.4304571000 -0300" 'press/press-kit/img/logotype-plain_white_full.png'
+/usr/bin/touch -hcad "2024-08-21 01:10:11.2107801000 -0300" 'press/press-kit/img/logotype-plain_white_full.png'
+chown -h 1000:1000 'press/press-kit/img/logotype-plain_white_full.svg'
+chmod 0755 'press/press-kit/img/logotype-plain_white_full.svg'
+/usr/bin/touch -hcmd "2024-08-14 16:47:39.9632224000 -0300" 'press/press-kit/img/logotype-plain_white_full.svg'
+/usr/bin/touch -hcad "2024-08-21 01:10:11.2047800000 -0300" 'press/press-kit/img/logotype-plain_white_full.svg'
+chown -h 1000:1000 'press/press-kit/index.html'
+chmod 0755 'press/press-kit/index.html'
+/usr/bin/touch -hcmd "2024-08-21 01:14:15.5597509000 -0300" 'press/press-kit/index.html'
+/usr/bin/touch -hcad "2024-08-21 01:14:32.1790079000 -0300" 'press/press-kit/index.html'
